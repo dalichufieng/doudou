@@ -1,0 +1,13 @@
+app:
+  name: doudou
+  port: 8090
+  version: 1.0.0
+request:
+  timeout: 40000
+os:
+  write: /Users/lch/temp/ceshi/write
+  read: /Users/lch/temp/ceshi/read
+  reqwrite: /Users/lch/temp/ceshi/reqwrite
+  reqread: /Users/lch/temp/ceshi/reqread
+
+
