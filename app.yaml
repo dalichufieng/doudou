@@ -5,9 +5,9 @@ app:
 request:
   timeout: 40000
 os:
-  write: /Users/lch/temp/ceshi/write
-  read: /Users/lch/temp/ceshi/read
-  reqwrite: /Users/lch/temp/ceshi/reqwrite
-  reqread: /Users/lch/temp/ceshi/reqread
+  write: /workspaces/ceshi/write
+  read: /workspaces/ceshi/read
+  reqwrite: /workspaces/ceshi/reqwrite
+  reqread: /workspaces/ceshi/reqread
 
 
